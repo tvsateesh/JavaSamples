@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-
+//https://www.hackerrank.com/challenges/2d-array
 public class 2DHourGlassBigSum {
 
     public static void main(String[] args) {
